@@ -1,0 +1,6 @@
+<Pages group="Website pages">
+	<Page name="Login">
+		<Element name="Username" locator="username" selector="Text" type="id" />
+		<Element name="Password" locator="#password" selector="Text" type="css" />
+	</Page>
+</Pages>
